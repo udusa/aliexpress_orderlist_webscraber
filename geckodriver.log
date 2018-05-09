@@ -1,0 +1,1060 @@
+1525863894469	geckodriver	INFO	geckodriver 0.20.1
+1525863894478	geckodriver	INFO	Listening on 127.0.0.1:63664
+1525863895497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.s2Xe04y0VEHz"
+1525863895942	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:04:56.691 plugin-container[13400:1448758] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:04:56.847 plugin-container[13400:1448758] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb00f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525863897026	Marionette	INFO	Listening on port 63676
+1525863897048	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:04:57.645 plugin-container[13401:1448856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:04:57.807 plugin-container[13401:1448856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab5b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 14:05:01.774 firefox-bin[13399:1448627] IMKInputSession [0x13290aaf0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125ad34c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:05:22.809 firefox-bin[13399:1448627] IMKInputSession [0x13290aaf0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125ad34c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:05:29.015 firefox-bin[13399:1448627] IMKInputSession [0x13290aaf0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125ad34c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1525864009667	geckodriver	INFO	geckodriver 0.20.1
+1525864009672	geckodriver	INFO	Listening on 127.0.0.1:63782
+1525864010697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.4ae05DSEPdLh"
+1525864011110	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:06:51.853 plugin-container[13412:1450137] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:06:52.012 plugin-container[13412:1450137] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f5f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864012168	Marionette	INFO	Listening on port 63793
+1525864012248	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:06:52.819 plugin-container[13413:1450227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:06:53.025 plugin-container[13413:1450227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x153d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:06:59.167 firefox-bin[13411:1450012] IMKInputSession [0x1386c7310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a4cd400 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:07:00.084 firefox-bin[13411:1450012] IMKInputSession [0x1386c7310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a4cd400 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:07:08.096 firefox-bin[13411:1450012] IMKInputSession [0x1386c7310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a4cd400 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 14:07:44.470 firefox-bin[13411:1450012] IMKInputSession [0x1386c7310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a4cd400 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1525864085398	geckodriver	INFO	geckodriver 0.20.1
+1525864085404	geckodriver	INFO	Listening on 127.0.0.1:63968
+1525864086429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.0MsUWBcX7ZDa"
+1525864086836	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:08:07.548 plugin-container[13419:1451021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:08:07.701 plugin-container[13419:1451021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb15f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864087842	Marionette	INFO	Listening on port 63979
+1525864087880	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:08:08.494 plugin-container[13420:1451109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:08:08.654 plugin-container[13420:1451109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac5b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+2018-05-09 14:09:25.933 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 14:09:50.595 firefox-bin[13399:1448627] IMKInputSession [0x12d0f13a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118c630a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:09:50.622 firefox-bin[13399:1448627] IMKInputSession [0x12d0f13a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118c630a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:09:50.928 plugin-container[13422:1452062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:09:51.085 plugin-container[13422:1452062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xacab, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:09:53.069 firefox-bin[13411:1450012] IMKInputSession [0x130cbd0d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1266dedc0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:09:53.132 firefox-bin[13411:1450012] IMKInputSession [0x130cbd0d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1266dedc0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:09:53.626 plugin-container[13424:1452246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:09:53.822 plugin-container[13424:1452246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1531f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:09:55.050 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:09:59.498 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:12:13.389 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:12:15.595 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:12:34.989 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1525864359037	geckodriver	INFO	geckodriver 0.20.1
+1525864359042	geckodriver	INFO	Listening on 127.0.0.1:64233
+1525864360061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.30ZvI7NnIOKk"
+1525864360506	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:12:41.254 plugin-container[13436:1454063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:12:41.414 plugin-container[13436:1454063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14fa7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864361582	Marionette	INFO	Listening on port 64244
+1525864361612	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:12:42.191 plugin-container[13437:1454152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:12:42.365 plugin-container[13437:1454152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1541f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:12:44.914 firefox-bin[13418:1450885] IMKInputSession [0x1275c44c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d1797c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 14:13:16.137 firefox-bin[13435:1453932] IMKInputSession [0x113885670 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1139ae340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525864684284	geckodriver	INFO	geckodriver 0.20.1
+1525864684289	geckodriver	INFO	Listening on 127.0.0.1:64645
+1525864685311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.0JkpWUAjdvGE"
+1525864685758	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:18:06.495 plugin-container[13449:1456740] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:18:06.656 plugin-container[13449:1456740] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864686812	Marionette	INFO	Listening on port 64656
+1525864686872	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:18:07.445 plugin-container[13450:1456822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:18:07.615 plugin-container[13450:1456822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x154d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+1525864752557	geckodriver	INFO	geckodriver 0.20.1
+1525864752562	geckodriver	INFO	Listening on 127.0.0.1:64748
+1525864753583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.NRUOT3zMFQbI"
+1525864754036	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:19:14.867 plugin-container[13460:1457550] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:19:15.061 firefox-bin[13448:1456613] IMKInputSession [0x12beb8280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x122f123a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:19:15.078 firefox-bin[13448:1456613] IMKInputSession [0x12beb8280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x122f123a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 14:19:15.087 plugin-container[13460:1457550] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad1f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864755380	Marionette	INFO	Listening on port 64759
+2018-05-09 14:19:15.405 plugin-container[13461:1457644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864755446	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:19:15.616 plugin-container[13461:1457644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x153db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:19:15.808 plugin-container[13462:1457699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:19:15.975 plugin-container[13462:1457699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15363, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 14:20:06.472 firefox-bin[13459:1457453] IMKInputSession [0x111e77dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x111e5b640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525864936741	geckodriver	INFO	geckodriver 0.20.1
+1525864936746	geckodriver	INFO	Listening on 127.0.0.1:65119
+1525864937768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.5PEMJb9u9wjq"
+1525864938218	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:22:18.960 plugin-container[13469:1459715] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:22:19.125 plugin-container[13469:1459715] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf0b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525864939284	Marionette	INFO	Listening on port 65130
+1525864939320	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:22:19.899 plugin-container[13470:1459805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:22:20.063 plugin-container[13470:1459805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525865691178	geckodriver	INFO	geckodriver 0.20.1
+1525865691183	geckodriver	INFO	Listening on 127.0.0.1:65535
+1525865692200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.Jto3U6xLRVwn"
+1525865692630	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:34:53.371 plugin-container[13495:1465412] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:34:53.528 plugin-container[13495:1465412] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14fa3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525865693682	Marionette	INFO	Listening on port 49162
+1525865693756	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:34:54.309 plugin-container[13496:1465513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:34:54.471 plugin-container[13496:1465513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x154d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525867183874	geckodriver	INFO	geckodriver 0.20.1
+1525867183879	geckodriver	INFO	Listening on 127.0.0.1:49360
+1525867184904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.Ac5LUvzCvoeI"
+1525867185316	Marionette	INFO	Enabled via --marionette
+2018-05-09 14:59:46.023 plugin-container[13534:1475515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:59:46.178 plugin-container[13534:1475515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf6b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525867186328	Marionette	INFO	Listening on port 49371
+1525867186370	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 14:59:46.956 plugin-container[13535:1475604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 14:59:47.113 plugin-container[13535:1475604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1535b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+2018-05-09 15:00:59.437 firefox-bin[13533:1475380] IMKInputSession [0x124325d30 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11b46c2e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525867335986	geckodriver	INFO	geckodriver 0.20.1
+1525867335991	geckodriver	INFO	Listening on 127.0.0.1:49542
+1525867337015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.PDa1iuWAfFW0"
+1525867337458	Marionette	INFO	Enabled via --marionette
+2018-05-09 15:02:18.193 plugin-container[13544:1477101] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 15:02:18.354 plugin-container[13544:1477101] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1529f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525867338520	Marionette	INFO	Listening on port 49553
+1525867338590	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 15:02:19.143 plugin-container[13545:1477194] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 15:02:19.307 plugin-container[13545:1477194] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1525867506872	geckodriver	INFO	geckodriver 0.20.1
+1525867506878	geckodriver	INFO	Listening on 127.0.0.1:49920
+1525867507899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.tvWi7Jw6rkbK"
+1525867508378	Marionette	INFO	Enabled via --marionette
+2018-05-09 15:05:08.874 firefox-bin[13493:1465260] IMKInputSession [0x11e06dca0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11af4fd60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 15:05:09.193 plugin-container[13556:1479275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 15:05:09.365 plugin-container[13556:1479275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaea3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525867509618	Marionette	INFO	Listening on port 49931
+1525867509670	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 15:05:10.090 plugin-container[13557:1479363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 15:05:10.297 plugin-container[13557:1479363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1541b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 15:05:12.322 firefox-bin[13533:1475380] IMKInputSession [0x124325d30 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11b46c2e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+1525881464068	geckodriver	INFO	geckodriver 0.20.1
+1525881464073	geckodriver	INFO	Listening on 127.0.0.1:50577
+1525881465097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.3rFC3ijDsYhI"
+1525881465510	Marionette	INFO	Enabled via --marionette
+2018-05-09 18:57:46.213 plugin-container[13756:1520140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 18:57:46.366 plugin-container[13756:1520140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb217, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525881466520	Marionette	INFO	Listening on port 50588
+1525881466560	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 18:57:47.148 plugin-container[13757:1520228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 18:57:47.309 plugin-container[13757:1520228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab57, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+1525881686684	geckodriver	INFO	geckodriver 0.20.1
+1525881686689	geckodriver	INFO	Listening on 127.0.0.1:50721
+1525881687710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.eu6qwLEZrY7S"
+1525881688184	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:01:28.910 plugin-container[13767:1522102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:01:29.069 plugin-container[13767:1522102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x150cf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525881689236	Marionette	INFO	Listening on port 50732
+1525881689270	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:01:29.895 plugin-container[13768:1522188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:01:30.065 plugin-container[13768:1522188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaba7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+2018-05-09 19:01:42.907 firefox-bin[13766:1521965] IMKInputSession [0x11e5f73a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11e538ac0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-05-09 19:01:45.024 firefox-bin[13755:1520013] IMKInputSession [0x131fe3430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128be7760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:01:45.043 firefox-bin[13755:1520013] IMKInputSession [0x131fe3430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128be7760 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:01:45.288 plugin-container[13782:1522742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:01:45.451 plugin-container[13782:1522742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xabd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882206144	geckodriver	INFO	geckodriver 0.20.1
+1525882206149	geckodriver	INFO	Listening on 127.0.0.1:50889
+1525882206163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.yyla7RX76hWK"
+1525882206580	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:10:07.295 plugin-container[13798:1527127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:10:07.449 plugin-container[13798:1527127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf27, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882207654	Marionette	INFO	Listening on port 50898
+1525882207740	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:10:08.254 plugin-container[13799:1527219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:10:08.421 plugin-container[13799:1527219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15463, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525882273008	geckodriver	INFO	geckodriver 0.20.1
+1525882273013	geckodriver	INFO	Listening on 127.0.0.1:51057
+1525882274037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.xTQ813a1a8RU"
+1525882274452	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:11:15.150 plugin-container[13859:1528481] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:11:15.304 plugin-container[13859:1528481] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaecb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882275454	Marionette	INFO	Listening on port 51068
+1525882275488	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:11:16.095 plugin-container[13860:1528573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:11:16.258 plugin-container[13860:1528573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15463, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525882290453	geckodriver	INFO	geckodriver 0.20.1
+1525882290458	geckodriver	INFO	Listening on 127.0.0.1:51185
+1525882291479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.zVAmSkYr8IIC"
+1525882291892	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:11:32.626 plugin-container[13866:1528956] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:11:32.790 plugin-container[13866:1528956] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xada3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882292984	Marionette	INFO	Listening on port 51196
+1525882293052	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:11:33.556 plugin-container[13867:1529070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:11:33.784 plugin-container[13867:1529070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab63, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:11:36.397 firefox-bin[13865:1528823] IMKInputSession [0x13351d280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d6cd4c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:11:36.641 firefox-bin[13865:1528823] IMKInputSession [0x13351d280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d6cd4c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:11:44.741 firefox-bin[13865:1528823] IMKInputSession [0x13351d280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d6cd4c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:11:46.480 firefox-bin[13865:1528823] IMKInputSession [0x13351d280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11d6cd4c0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1525882326070	geckodriver	INFO	geckodriver 0.20.1
+1525882326076	geckodriver	INFO	Listening on 127.0.0.1:51387
+1525882327109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.plA7EhcUrh0H"
+1525882327528	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:12:08.236 plugin-container[13873:1529603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1513f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:12:08.392 plugin-container[13873:1529603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1511f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882328552	Marionette	INFO	Listening on port 51399
+1525882328578	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:12:09.197 plugin-container[13874:1529693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:12:09.365 plugin-container[13874:1529693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1541f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-05-09 19:15:22.335 firefox-bin[13865:1528823] IMKInputSession [0x124b71af0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11b4388e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:15:22.344 firefox-bin[13865:1528823] IMKInputSession [0x124b71af0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11b4388e0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 19:15:22.600 plugin-container[13891:1532344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:15:22.745 plugin-container[13891:1532344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab17, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882675074	geckodriver	INFO	geckodriver 0.20.1
+1525882675079	geckodriver	INFO	Listening on 127.0.0.1:51916
+1525882676100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.HFapBMEfuzdk"
+1525882676512	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:17:57.223 plugin-container[13914:1534271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:17:57.379 plugin-container[13914:1534271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae5b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882677578	Marionette	INFO	Listening on port 51927
+1525882677658	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:17:58.174 plugin-container[13915:1534360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:17:58.339 plugin-container[13915:1534360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab1f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525882773918	geckodriver	INFO	geckodriver 0.20.1
+1525882773923	geckodriver	INFO	Listening on 127.0.0.1:52329
+1525882774948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.tdEHKYzeNhK2"
+1525882775364	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:19:36.119 plugin-container[13935:1535910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1513b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:19:36.284 plugin-container[13935:1535910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1515b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525882776446	Marionette	INFO	Listening on port 52340
+1525882776518	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:19:37.030 plugin-container[13936:1536000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:19:37.194 plugin-container[13936:1536000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xabdb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525883173367	geckodriver	INFO	geckodriver 0.20.1
+1525883173373	geckodriver	INFO	Listening on 127.0.0.1:52793
+1525883174399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.OLD4oA1cr66r"
+1525883174822	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:26:15.530 plugin-container[13969:1540161] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:26:15.686 plugin-container[13969:1540161] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525883175834	Marionette	INFO	Listening on port 52804
+1525883175858	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:26:16.473 plugin-container[13970:1540248] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:26:16.632 plugin-container[13970:1540248] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1545f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525883327009	geckodriver	INFO	geckodriver 0.20.1
+1525883327014	geckodriver	INFO	Listening on 127.0.0.1:53213
+1525883328040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.GYbUY6UaJVFi"
+1525883328454	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:28:49.168 plugin-container[13987:1541974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1503b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:28:49.326 plugin-container[13987:1541974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x150d3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525883329480	Marionette	INFO	Listening on port 53224
+1525883329504	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:28:50.126 plugin-container[13988:1542064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:28:50.290 plugin-container[13988:1542064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac9b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525883392450	geckodriver	INFO	geckodriver 0.20.1
+1525883392455	geckodriver	INFO	Listening on 127.0.0.1:53640
+1525883393480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.19hgCFZLW5gK"
+1525883393900	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:29:54.618 plugin-container[13999:1543067] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:29:54.778 plugin-container[13999:1543067] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb22b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525883394928	Marionette	INFO	Listening on port 53651
+1525883394954	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:29:55.569 plugin-container[14000:1543156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:29:55.733 plugin-container[14000:1543156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab53, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525883452271	geckodriver	INFO	geckodriver 0.20.1
+1525883452276	geckodriver	INFO	Listening on 127.0.0.1:54045
+1525883453298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.QEPT08TglBOD"
+1525883453720	Marionette	INFO	Enabled via --marionette
+2018-05-09 19:30:54.437 plugin-container[14009:1544105] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:30:54.594 plugin-container[14009:1544105] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1509b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525883454772	Marionette	INFO	Listening on port 54056
+1525883454852	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 19:30:55.392 plugin-container[14010:1544199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 19:30:55.554 plugin-container[14010:1544199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1531f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525893579479	geckodriver	INFO	geckodriver 0.20.1
+1525893579484	geckodriver	INFO	Listening on 127.0.0.1:54622
+1525893582111	geckodriver	INFO	geckodriver 0.20.1
+1525893582116	geckodriver	INFO	Listening on 127.0.0.1:54625
+1525893583137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.r1evU6bJHuhP"
+1525893586017	geckodriver	INFO	geckodriver 0.20.1
+1525893586023	geckodriver	INFO	Listening on 127.0.0.1:54639
+1525893587047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.OPtIYOtjiEgG"
+1525893587474	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:19:48.188 plugin-container[14085:1553951] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:19:48.344 plugin-container[14085:1553951] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf2f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893588502	Marionette	INFO	Listening on port 54650
+1525893588602	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:19:49.129 plugin-container[14086:1554051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:19:49.289 plugin-container[14086:1554051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab5b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525893601793	geckodriver	INFO	geckodriver 0.20.1
+1525893601799	geckodriver	INFO	Listening on 127.0.0.1:54777
+1525893602824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.4ajM2PkbI8sR"
+1525893603276	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:20:03.990 plugin-container[14093:1554407] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:20:04.145 plugin-container[14093:1554407] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1500f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893604294	Marionette	INFO	Listening on port 54788
+1525893604376	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:20:04.933 plugin-container[14094:1554493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:20:05.095 plugin-container[14094:1554493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae53, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525893618983	geckodriver	INFO	geckodriver 0.20.1
+1525893618988	geckodriver	INFO	Listening on 127.0.0.1:54902
+1525893620013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.6KHRbZ1LikHd"
+1525893620450	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:20:21.167 plugin-container[14100:1554869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:20:21.324 plugin-container[14100:1554869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb05b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893621464	Marionette	INFO	Listening on port 54913
+1525893621470	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:20:22.155 plugin-container[14101:1554976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:20:22.385 plugin-container[14101:1554976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab2b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:20:25.421 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 22:20:25.791 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 22:20:35.475 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 22:20:41.640 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 22:20:46.129 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-09 22:20:54.608 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+1525893708713	geckodriver	INFO	geckodriver 0.20.1
+1525893708719	geckodriver	INFO	Listening on 127.0.0.1:55041
+1525893709739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.kxMVB13uhpZG"
+2018-05-09 22:21:50.129 firefox-bin[14099:1554726] IMKInputSession [0x103452a60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11a42fa60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1525893710214	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:21:50.956 plugin-container[14109:1556111] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:21:51.113 plugin-container[14109:1556111] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb01f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893711322	Marionette	INFO	Listening on port 55052
+1525893711398	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:21:52.031 plugin-container[14110:1556226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:21:52.293 plugin-container[14110:1556226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xacd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525893894127	geckodriver	INFO	geckodriver 0.20.1
+1525893894132	geckodriver	INFO	Listening on 127.0.0.1:55462
+1525893895158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.A5moPNcctJb0"
+1525893895578	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:24:56.289 plugin-container[14138:1558786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:24:56.447 plugin-container[14138:1558786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae57, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893896602	Marionette	INFO	Listening on port 55473
+1525893896626	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:24:57.240 plugin-container[14139:1558880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:24:57.409 plugin-container[14139:1558880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1549b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525893972541	geckodriver	INFO	geckodriver 0.20.1
+1525893972546	geckodriver	INFO	Listening on 127.0.0.1:55879
+1525893973570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.kDh4ZB9DyQOM"
+1525893973992	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:26:14.706 plugin-container[14152:1560110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:26:14.862 plugin-container[14152:1560110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf67, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525893975012	Marionette	INFO	Listening on port 55890
+1525893975018	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:26:15.667 plugin-container[14153:1560201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:26:15.832 plugin-container[14153:1560201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15317, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894039733	geckodriver	INFO	geckodriver 0.20.1
+1525894039739	geckodriver	INFO	Listening on 127.0.0.1:56292
+1525894040764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.Ybic4wLTrwcM"
+1525894041182	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:27:21.892 plugin-container[14161:1561098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:27:22.048 plugin-container[14161:1561098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1501f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894042238	Marionette	INFO	Listening on port 56303
+1525894042328	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:27:22.843 plugin-container[14162:1561200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:27:23.012 plugin-container[14162:1561200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xacd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894118043	geckodriver	INFO	geckodriver 0.20.1
+1525894118048	geckodriver	INFO	Listening on 127.0.0.1:56704
+1525894119080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.m6ty5uFG0xTN"
+1525894119496	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:28:40.202 plugin-container[14170:1562247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:28:40.359 plugin-container[14170:1562247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14d1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894120508	Marionette	INFO	Listening on port 56715
+1525894120548	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:28:41.156 plugin-container[14171:1562334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:28:41.316 plugin-container[14171:1562334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1538f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894188844	geckodriver	INFO	geckodriver 0.20.1
+1525894188849	geckodriver	INFO	Listening on 127.0.0.1:57114
+1525894189874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.eU6hKiQgJPVL"
+1525894190316	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:29:51.044 plugin-container[14182:1563404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:29:51.207 plugin-container[14182:1563404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x268b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894191420	Marionette	INFO	Listening on port 57125
+1525894191438	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:29:51.985 plugin-container[14183:1563494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:29:52.150 plugin-container[14183:1563494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15417, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894265744	geckodriver	INFO	geckodriver 0.20.1
+1525894265750	geckodriver	INFO	Listening on 127.0.0.1:57524
+1525894266775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.J1KMzE6nvm5J"
+1525894267204	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:31:07.911 plugin-container[14201:1564791] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:31:08.067 plugin-container[14201:1564791] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14fcb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894268216	Marionette	INFO	Listening on port 57535
+1525894268244	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:31:08.890 plugin-container[14202:1564886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:31:09.096 plugin-container[14202:1564886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15357, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894355908	geckodriver	INFO	geckodriver 0.20.1
+1525894355913	geckodriver	INFO	Listening on 127.0.0.1:57939
+1525894356933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.45Sk79EtiHnI"
+1525894357430	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:32:38.226 plugin-container[14221:1566787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:32:38.397 plugin-container[14221:1566787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb0d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894358602	Marionette	INFO	Listening on port 57951
+1525894358700	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:32:39.163 plugin-container[14222:1566891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:32:39.345 plugin-container[14222:1566891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1541b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894446301	geckodriver	INFO	geckodriver 0.20.1
+1525894446307	geckodriver	INFO	Listening on 127.0.0.1:58372
+1525894447324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.AHifLZXJtcgX"
+1525894447774	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:34:08.482 plugin-container[14242:1568332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1503b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:34:08.640 plugin-container[14242:1568332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x178b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894448790	Marionette	INFO	Listening on port 58383
+1525894448878	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:34:09.432 plugin-container[14243:1568422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:34:09.597 plugin-container[14243:1568422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab1f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894545465	geckodriver	INFO	geckodriver 0.20.1
+1525894545470	geckodriver	INFO	Listening on 127.0.0.1:58794
+1525894546495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.MWyahCNp6ZxT"
+1525894546930	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:35:47.634 plugin-container[14262:1569918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:35:47.789 plugin-container[14262:1569918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x153d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894547980	Marionette	INFO	Listening on port 58805
+1525894548068	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:35:48.582 plugin-container[14263:1570020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:35:48.745 plugin-container[14263:1570020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x153d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894668773	geckodriver	INFO	geckodriver 0.20.1
+1525894668778	geckodriver	INFO	Listening on 127.0.0.1:59229
+1525894669803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.4aRngeDypf09"
+1525894670234	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:37:51.028 plugin-container[14281:1571632] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1513f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:37:51.182 plugin-container[14281:1571632] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15163, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894671316	Marionette	INFO	Listening on port 59240
+1525894671370	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:37:51.891 plugin-container[14282:1571719] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:37:52.054 plugin-container[14282:1571719] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x153db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525894835379	geckodriver	INFO	geckodriver 0.20.1
+1525894835384	geckodriver	INFO	Listening on 127.0.0.1:59670
+1525894836398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.R7NltiZommGC"
+1525894836826	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:40:37.541 plugin-container[14304:1573724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:40:37.696 plugin-container[14304:1573724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb1cb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525894837890	Marionette	INFO	Listening on port 59681
+1525894837978	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:40:38.477 plugin-container[14305:1573811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1530b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:40:38.640 plugin-container[14305:1573811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15327, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525895046219	geckodriver	INFO	geckodriver 0.20.1
+1525895046225	geckodriver	INFO	Listening on 127.0.0.1:60126
+1525895047247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.enena4nmv6uS"
+1525895047754	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:44:08.458 plugin-container[14325:1576195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1513b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:44:08.613 plugin-container[14325:1576195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x151d3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525895048752	Marionette	INFO	Listening on port 60137
+1525895048800	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:44:09.409 plugin-container[14326:1576279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:44:09.573 plugin-container[14326:1576279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15127, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525895135535	geckodriver	INFO	geckodriver 0.20.1
+1525895135541	geckodriver	INFO	Listening on 127.0.0.1:60545
+1525895136561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.G1DOmdhN2Ipw"
+1525895136986	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:45:37.700 plugin-container[14345:1577765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:45:37.890 plugin-container[14345:1577765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x198b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525895138058	Marionette	INFO	Listening on port 60556
+1525895138118	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:45:38.637 plugin-container[14346:1577852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1533f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:45:38.801 plugin-container[14346:1577852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1531b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525895435377	geckodriver	INFO	geckodriver 0.20.1
+1525895435382	geckodriver	INFO	Listening on 127.0.0.1:61044
+1525895436404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.PNogFZcfiNze"
+1525895436818	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:50:37.515 plugin-container[14388:1581348] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:50:37.671 plugin-container[14388:1581348] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae17, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525895437812	Marionette	INFO	Listening on port 61055
+1525895437858	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:50:38.457 plugin-container[14389:1581436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:50:38.620 plugin-container[14389:1581436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab1f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525895516622	geckodriver	INFO	geckodriver 0.20.1
+1525895516627	geckodriver	INFO	Listening on 127.0.0.1:61448
+1525895517652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7f/dnlvbnqs2xbg_4gnc1jbg1400000gn/T/rust_mozprofile.PDZbzEFEe32v"
+1525895518078	Marionette	INFO	Enabled via --marionette
+2018-05-09 22:51:58.773 plugin-container[14399:1582533] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:51:58.927 plugin-container[14399:1582533] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1515f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525895519076	Marionette	INFO	Listening on port 61459
+1525895519118	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-09 22:51:59.729 plugin-container[14400:1582626] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-09 22:51:59.887 plugin-container[14400:1582626] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xada3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180412183001/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180102150215/buyer/back/me-header.js, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

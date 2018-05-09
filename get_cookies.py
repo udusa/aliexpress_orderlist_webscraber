@@ -10,6 +10,7 @@ def get_cookies():
     input('Hit Enter here if you have summited the form: <Enter>')
     cookies = browser.get_cookies()
     pickle.dump(cookies, open("cookies.pickle", "wb"))
+    browser.close()
 
 
 def set_cookies():
